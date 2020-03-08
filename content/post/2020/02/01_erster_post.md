@@ -1,20 +1,14 @@
 ---
-title: "Mein erster Post"
+title: "Das Böse trägt Lila."
 date: 2020-03-07T22:04:29+01:00
 draft: false
 ---
 
-Hier kommt mein Text rein. Ich möchte mehr.
+# Alle Religionen dieser Erde.
 
-1. Punkt 1
-2. Punkt 2
+#### Abrechnung mit dem Zölibat. 
 
-# Erste Überschrift
-
-## Zweite Überschrift
-
-# Abrechnung mit dem Zölibat
-Es ist eines der **heißesten Eisen** der römisch-katholischen Kirche: Der Zölibat gehört zu den umstrittensten ihrer Einrichtungen. Der renommierte Kirchenhistoriker Hubert Wolf hat dem Thema ein Buch in „16 Thesen“ gewidmet - eine Abrechnung.
+Es ist eines der **heißesten Eisen** der römisch-katholischen Kirche: Der  _Zölibat_ gehört zu den umstrittensten ihrer Einrichtungen. Der renommierte Kirchenhistoriker Hubert Wolf hat dem Thema ein Buch in „16 Thesen“ gewidmet - eine Abrechnung. 
 In 16 Kapiteln beleuchtet Wolf, der an der deutschen Universität Münster Geschichte lehrt, Gründe für die Einführung der zölibatären Lebensweise katholischer Geistlicher seit dem Mittelalter sowie Auswirkungen bis zum heutigen Tag. Der Zeitpunkt für die Neuerscheinung ist gut gewählt, denn das Thema Pflichtzölibat wird bei der Amazonien-Synode im Herbst prominent diskutiert werden.
 Das weiß auch der Autor von „Zölibat. 16 Thesen“: Gleich im Vorwort schildert er eine Begegnung zwischen dem österreichischen emeritierten Bischof der brasilianischen Diözese Xingu, Erwin Kräutler, und Papst Franziskus im Jahr 2014: 90 Prozent der Gemeinden seiner Diözese könnten am Sonntag nicht regelmäßig Eucharistie feiern, 70 Prozent sogar nur dreimal im Jahr, weil es so gut wie keine Priester gebe, habe Kräutler dem Papst berichtet.
 „Das Tabu ist gefallen“
@@ -24,8 +18,6 @@ Der Zölibat (lat. caelibatus: Ehelosigkeit) ist die aus religiösen Gründen ge
 Doch auch „Priestermangel und Missbrauchsvorwürfe“ würden den Vatikan zwingen, über den Zölibat zu reden. Zum einen vermute man, „dass seit den 1960er Jahren weltweit etwa zwanzig Prozent der Priester ihr Amt wegen des Zölibats aufgegeben haben“. Zum anderen skizziert Wolf, der hier fraglos für die Abschaffung des Pflichtzölibats eintritt, welche Auswirkungen diese „unnatürliche“ Lebensweise haben kann - und warum es den Zölibat gar nicht geben müsste und er sogar leicht abgeschafft werden könnte. Denn der Zölibat ist kein kirchliches Dogma, sondern ein Kirchengesetz, noch dazu mit Ausnahmen.
 Die vorgeschriebene Ehelosigkeit von Priestern der lateinischen (Westkirche) ist auch alles andere als unwidersprochen, wie Wolf ausführt: „Auf nahezu allen Nationalsynoden nach dem Zweiten Vatikanischen Konzil wurde die Weihe verheirateter Männer zu Priestern gefordert“, erinnert er.
  
-Public Domain
-Der heilige Petrus soll verheiratet gewesen sein (Ikone aus dem 6. Jahrhundert, Katharinenkloster, Sinai)
 Petrus’ Schwiegermutter
 Der Zölibat lasse sich biblisch nicht begründen, „denn im Neuen Testament gibt es selbstverständlich verheiratete Bischöfe, Priester und Diakone“, führt Wolf aus. Für die frühesten Anfänge dient dem Historiker „die Schwiegermutter des Petrus“ quasi als lebender Beweis für eine Ehe, die der „erste Bischof von Rom“ geführt haben muss. Auch in der christlichen Frühkirche haben verheiratete und ehelose Priester nebeneinander gelebt. Die Neigung zur Enthaltsamkeit - auch in der Ehe - sei allerdings schon vorhanden gewesen. Dieser Trend habe sich im 4. Jahrhundert noch verstärkt.
 Klare Regeln und eine Einheitlichkeit bezüglich Priester und Ehe bzw. Enthaltsamkeit gab es über Jahrhunderte hinweg nicht, wie Wolf schreibt: „Kanones (Dokumente, Anm.), die generell verlangen, dass verheiratete Geistliche von ihren Frauen getrennt leben, begegnen erst im elften Jahrhundert.“
@@ -52,30 +44,14 @@ Neben dem schon erwähnten Recht der Gläubigen auf regelmäßige Gottesdienste 
 „Römisch-päpstliche Hierarchie zerstört“
 Oder wie es Kardinalstaatssekretär Lazzaro Opizio Pallavicini 1783 ausdrückte: „Wenn man den Geistlichen die Ehe gestattet, so ist die römisch-päpstliche Hierarchie zerstört, das Ansehen und die Hoheit des römischen Bischofs verloren; denn verheiratete Geistliche werden durch das Band mit Weibern und Kindern an den Staat gefesselt, hören auf, Anhänger des römischen Stuhles zu sein.“
 „Zölibat. 16 Thesen“ ist eine kompakte (das broschierte Buch hat nur 190 Seiten) Zusammenfassung von Ist-Zustand und Ursprüngen der Institution, wie wir sie kennen. Aus seiner Überzeugung, dass der Pflichtzölibat abgeschafft werden sollte, macht der Kirchenhistoriker kein Hehl - wie auch immer man selbst dazu stehen mag, für am Thema Interessierte ist Wolfs Buch ein Muss.
-Johanna Grillmayer, religion.ORF.at
-Links:
-•	C. H. Beck
-•	Hubert Wolf an der Universität Münster
-•	Spirituelle Lektüre für die stillen Tage
-Wer es vor Weihnachten noch nicht geschafft hat, zur Ruhe zu kommen und wieder einmal ein gutes Buch zu lesen, hat vielleicht in der ruhigeren Zeit nach den Feiertagen dazu Gelegenheit. Hier die Lesetipps von religion.ORF.at für Gabentisch und Feiertage.
-•	„Die zwei Päpste“: Duell der alten Männer
-„Die zwei Päpste“ des brasilianischen Regisseurs Fernando Meirelles hat alles, was ein Papst-Film braucht: kluge Sprachduelle, liebevolle Ausstattung, neben Pathos und Zeitgeschichte auch ein paar Witze - und vor allem zwei überragende Schauspieler in den Titelrollen.
-•	Wien: Weihnachtsmarkt für krebskranke Kinder
-Die russisch-orthodoxe Kirche in Wien lädt erneut zu ihrem traditionellen Weihnachtsmarkt, der vor allem karitativen Zwecken dient. Der Erlös kommt krebskranken Kindern zugute.
-•	Theologie Graz: „Lange Nacht der Genderlesung“
-Mit einer prominent besetzten „Langen Nacht der Genderlesung“ beginnt die Jubiläumsfeier der Katholisch-Theologischen Fakultät der Universität Graz: Vor 25 Jahren wurde ihr Schwerpunkt Frauen- und Geschlechterforschung eingerichtet.
-•	Otto-Neururer-Film auf Tour durch Österreich
-Der Film „Otto Neururer – Hoffnungsvolle Finsternis“ läuft derzeit noch in österreichischen Kinos. Neururer war Tiroler Dorfpfarrer, der sich den Nazis widersetzte. Er wurde 1940 im KZ Buchenwald ermordet und 1996 seliggesprochen.
-•	Zufallsfund eröffnet Einblick in jüdische Geschichte
-Durch Zufall sind Teile einer 1938 zerstörten Synagoge in Wien wiederentdeckt worden. Die erstaunlichen Funde werden ab Freitag in einer Ausstellung im Haus der Geschichte Österreich (hdgö) gezeigt.
-•	Neue „Biografie“ der Bibel
-Sie ist das „Buch der Bücher“, das wohl einflussreichste Schriftwerk der Geschichte, doch für viele auch ein Buch mit sieben Siegeln: die Bibel. Zwei Bibelwissenschaftler legen eine „Biografie“ des berühmtesten Buchs der Welt vor.
-•	Brisanter Film: Missbrauch und Schuld der Kirche
-Der französische Regisseur Francois Ozon seziert in „Gelobt sei Gott“ einen hochaktuellen Fall massenhaften Missbrauchs an Buben durch einen französischen Priester, die Spätfolgen von sexueller Gewalt und den Umgang der katholischen Kirche mit den Opfern.
-•	Seminarreihe: Ethische Dimension des Klimawandels
-Um die ethischen Dimensionen beim Thema Klimawandel dreht sich eine Seminarreihe der Donau-Uni-Krems in Kooperation mit dem Ökumenischen Rat der Kirchen (ÖRKÖ), der Allianz für Klimagerechtigkeit und „religions for future“.
-•	Buch: Der Kardinal und die Ex-Ordensfrau
-Es war ein großes Medienereignis: Die frühere Ordensfrau und Autorin Doris Wagner und Kardinal Christoph Schönborn, einer der mächtigsten Männer in der römisch-katholischen Kirche, saßen einander in einem Gespräch gegenüber. Der Dialog erschien jetzt in Buchform.
-Seitenanfang
 
-Link zu meinen [Artikel](http://artikel.de)
+Hier kommen meine Texte hinein
+Struktur:
+Einleitung
+Christentum
+Judentum
+Islam
+usw.
+
+
+

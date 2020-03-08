@@ -1,4 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Meine neue Webseite"
+title = "Der Hahn der niemals aufhört zu krähen."
 theme = "beautifulhugo"
+
+
